@@ -6,7 +6,7 @@ This project involves developing predictive models to estimate the survival outc
 Analyzing Clinical Parameters Influencing Mortality in Heart Failure Patients: A Machine Learning Approach
 
 #### Data Sources
-The primary data source for this project is a heart failure clinical records dataset available on Kaggle. It contains several clinical parameters such as age, anaemia, creatinine phosphokinase, diabetes, ejection fraction, high blood pressure, platelets, serum creatinine, serum sodium, sex, smoking status, and follow-up time.
+The primary data source for this project is a heart failure clinical records dataset available on Kaggle(https://www.kaggle.com/datasets/rabieelkharoua/predict-survival-of-patients-with-heart-failure). It contains several clinical parameters such as age, anaemia, creatinine phosphokinase, diabetes, ejection fraction, high blood pressure, platelets, serum creatinine, serum sodium, sex, smoking status, and follow-up time.
 
 #### Analytical Techniques
 The analysis utilizes various statistical and machine learning methods, including:
