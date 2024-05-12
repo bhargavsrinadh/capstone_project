@@ -37,4 +37,4 @@ print(prediction)
 The project illustrates the potential of machine learning in improving the predictive accuracy of patient outcomes in medical settings. The findings can help clinicians develop more tailored treatment strategies for heart failure patients.
 
 #### Future Work
-Further research could expand the dataset size, incorporate more diverse clinical parameters, and explore advanced modeling techniques to enhance predictive accuracy. The deployment of these models in real-time clinical settings could also be explored to aid in immediate decision-making.
+The deployment of these models in real-time clinical settings could also be explored to aid in immediate decision-making.
